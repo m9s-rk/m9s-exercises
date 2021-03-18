@@ -1,3 +1,14 @@
+/*
+  Below is some test data representing 2 income share agreement,
+  and an unnamed mystery function that manipulates the data
+
+  Task:
+  - Determine what this mystery function is doing
+  - What would be a good name for this function?
+  - What would be an appropriate use-case for this function?
+  - Is there an easier way to accomplish what this function does?
+*/
+
 const testData = {
   reportCreated: new Date(),
   incomeShareAgreements: [
